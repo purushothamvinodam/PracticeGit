@@ -8,8 +8,8 @@ public class Demo {
 	}
 
 	public static String get(String r1) {
-		String s1=r1;
-		return s1;
+		String s=r1;
+		return s;
 
 	}
 
