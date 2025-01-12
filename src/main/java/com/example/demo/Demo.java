@@ -6,8 +6,8 @@ public class Demo {
 		System.out.print("Hi ");
 		System.out.println(get("purushotham"));
 	}
-	public static String get(String r2) {
-		String s=r2;
+	public static String get(String r) {
+		String s=r;
 		return s;
 	}
 
