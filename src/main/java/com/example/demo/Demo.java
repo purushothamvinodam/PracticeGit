@@ -7,8 +7,9 @@ public class Demo {
 		System.out.println(get("purushotham"));
 	}
 
-	public static String get(String r1) {
-		String s=r1;
+
+	public static String get(String r) {
+		String s=r;
 		return s;
 
 	}
