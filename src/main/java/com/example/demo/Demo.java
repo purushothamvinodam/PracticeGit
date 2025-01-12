@@ -9,8 +9,8 @@ public class Demo {
 
 
 	public static String get(String r) {
-		String s=r;
-		return s;
+		String s2=r;
+		return s2;
 
 	}
 
